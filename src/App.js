@@ -1,9 +1,10 @@
-import Stars from './Stars';
+import Listing from './ListItem';
 import './App.css';
+import data from './data/etsy.json'
 
 function App() {
   return (
-    <Stars/>
+    <Listing items={data} />
   );
 }
 
