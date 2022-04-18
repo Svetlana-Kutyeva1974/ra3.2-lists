@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra3.2-lists/static/css/main.dd4ba88e.css",
+    "main.js": "/ra3.2-lists/static/js/main.44ac257d.js",
+    "index.html": "/ra3.2-lists/index.html",
+    "main.dd4ba88e.css.map": "/ra3.2-lists/static/css/main.dd4ba88e.css.map",
+    "main.44ac257d.js.map": "/ra3.2-lists/static/js/main.44ac257d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd4ba88e.css",
+    "static/js/main.44ac257d.js"
+  ]
+}
