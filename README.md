@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# LISTS React App
 
 [![Build status](https://ci.appveyor.com/api/projects/status/kl5uwludbtk30anv?svg=true)](https://ci.appveyor.com/project/Svetlana-Kutyeva1974/ra3-2-lists)
 
