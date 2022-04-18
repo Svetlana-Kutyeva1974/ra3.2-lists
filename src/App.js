@@ -1,4 +1,4 @@
-import Listing from './ListItem';
+import Listing from './Listing';
 import './App.css';
 import data from './data/etsy.json'
 
